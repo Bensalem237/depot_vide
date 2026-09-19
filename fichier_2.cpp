@@ -9,6 +9,7 @@ int main() {
         std::cout << num << " ";
     }
     std::cout << std::endl;
+    std::cout << "Fin du programme !" << std::endl;
 
     return 0;
 }
