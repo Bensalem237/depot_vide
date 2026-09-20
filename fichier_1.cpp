@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-    int a = 1;
+    int a = 99;
     std::cout << "Hello, World!" << std::endl;
     std::cout << "Le Monde est tèllement beau!!!" << std::endl;
     std::cout << "Mais je dis la vérité hein, le monde est beau gars" << std:endl;
