@@ -2,7 +2,7 @@
 #include <cmath>
 
 int main() {
-    int x, n1, n2;
+    int x, n1, n2, entier;
     std::cout << "Hello World !"  << std::endl;
     std::cout << "Entrez un nombre : ";
     std::cin >> x;
