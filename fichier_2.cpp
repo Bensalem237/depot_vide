@@ -10,6 +10,6 @@ int main() {
     }
     std::cout << std::endl;
     std::cout << "Fin du programme !" << std::endl;
-
+    int b = 2;
     return 0;
 }
