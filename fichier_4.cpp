@@ -11,6 +11,7 @@ int main() {
     std::cout << "Maintenant, entrez deux entiers : ";
     std::cin >> n1 >> n2;
     std::cout << "Leur somme est " << n1 + n2 << std::endl;
+    std::cout << "C++17" << std::endl;
 
     return 0;
 }
