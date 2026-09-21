@@ -12,5 +12,6 @@ int main() {
     std::cout << std::endl;
     std::cout << "Fin du programme !" << std::endl;
     int b = 2;
+    std::cout << "La valeur de la variable que je viens de déclarer est : " << b << std::endl;
     return 0;
 }
